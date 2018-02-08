@@ -6,7 +6,7 @@ returns a unique ID each time it is called
 
 ## Usage
 ```js
-import getUniqueID from '@jaredlunde/get-unique-id
+import getUniqueID from '@jaredlunde/get-unique-id'
 
 getUniqueID()
 // 1
